@@ -1,1 +1,1 @@
-worker: node RainbowBot.js
+worker: node RainbowRole.js
