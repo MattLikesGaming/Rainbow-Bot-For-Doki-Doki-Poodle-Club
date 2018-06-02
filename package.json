@@ -1,0 +1,13 @@
+{
+  "name": "Rainbow",
+  "description": "Make Your Nametag A Rainbow Color.",
+  "version": "0.0.0",
+  "main": "RainbowBot.js",
+  "scripts": {
+    "start": "node RainbowBot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
