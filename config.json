@@ -3,8 +3,8 @@
 	"servers": [
 		"403383749745573889"
 	],
-	"roleName": "rainbow",
+	"roleName": "Burger",
 	"colors": 5,
 	"speed": 100,
-	"logging": true
+	"logging": false
 }
