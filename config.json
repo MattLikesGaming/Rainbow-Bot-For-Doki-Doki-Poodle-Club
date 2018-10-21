@@ -4,7 +4,6 @@
 		"403383749745573889"
 	],
 	"roleName": "Burger",
-	"colors": 5,
-	"speed": 1000,
-	"logging": false
+	"colors": 6,
+	"speed": 1000
 }
